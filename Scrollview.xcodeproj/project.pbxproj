@@ -18,6 +18,11 @@
 		4D8FC7AD1743DE9800B7A1E9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7AC1743DE9800B7A1E9 /* Default-568h@2x.png */; };
 		4D8FC7B01743DE9800B7A1E9 /* HelloWorldViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8FC7AF1743DE9800B7A1E9 /* HelloWorldViewController.m */; };
 		4D8FC7B31743DE9800B7A1E9 /* HelloWorldViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7B11743DE9800B7A1E9 /* HelloWorldViewController.xib */; };
+		4D8FC7BA1743E49600B7A1E9 /* img1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7B91743E49600B7A1E9 /* img1.jpg */; };
+		4D8FC7BC1743E49C00B7A1E9 /* img2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7BB1743E49C00B7A1E9 /* img2.jpg */; };
+		4D8FC7BE1743E4A000B7A1E9 /* img3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7BD1743E4A000B7A1E9 /* img3.jpg */; };
+		4D8FC7C01743E4A600B7A1E9 /* img4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7BF1743E4A600B7A1E9 /* img4.jpg */; };
+		4D8FC7C21743E4AA00B7A1E9 /* img5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7C11743E4AA00B7A1E9 /* img5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,11 @@
 		4D8FC7AE1743DE9800B7A1E9 /* HelloWorldViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloWorldViewController.h; sourceTree = "<group>"; };
 		4D8FC7AF1743DE9800B7A1E9 /* HelloWorldViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldViewController.m; sourceTree = "<group>"; };
 		4D8FC7B21743DE9800B7A1E9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloWorldViewController.xib; sourceTree = "<group>"; };
+		4D8FC7B91743E49600B7A1E9 /* img1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img1.jpg; sourceTree = "<group>"; };
+		4D8FC7BB1743E49C00B7A1E9 /* img2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img2.jpg; sourceTree = "<group>"; };
+		4D8FC7BD1743E4A000B7A1E9 /* img3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img3.jpg; sourceTree = "<group>"; };
+		4D8FC7BF1743E4A600B7A1E9 /* img4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img4.jpg; sourceTree = "<group>"; };
+		4D8FC7C11743E4AA00B7A1E9 /* img5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = img5.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +106,11 @@
 		4D8FC79D1743DE9700B7A1E9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4D8FC7C11743E4AA00B7A1E9 /* img5.jpg */,
+				4D8FC7BF1743E4A600B7A1E9 /* img4.jpg */,
+				4D8FC7BD1743E4A000B7A1E9 /* img3.jpg */,
+				4D8FC7BB1743E49C00B7A1E9 /* img2.jpg */,
+				4D8FC7B91743E49600B7A1E9 /* img1.jpg */,
 				4D8FC79E1743DE9700B7A1E9 /* Scrollview-Info.plist */,
 				4D8FC79F1743DE9800B7A1E9 /* InfoPlist.strings */,
 				4D8FC7A21743DE9800B7A1E9 /* main.m */,
@@ -164,6 +179,11 @@
 				4D8FC7AB1743DE9800B7A1E9 /* Default@2x.png in Resources */,
 				4D8FC7AD1743DE9800B7A1E9 /* Default-568h@2x.png in Resources */,
 				4D8FC7B31743DE9800B7A1E9 /* HelloWorldViewController.xib in Resources */,
+				4D8FC7BA1743E49600B7A1E9 /* img1.jpg in Resources */,
+				4D8FC7BC1743E49C00B7A1E9 /* img2.jpg in Resources */,
+				4D8FC7BE1743E4A000B7A1E9 /* img3.jpg in Resources */,
+				4D8FC7C01743E4A600B7A1E9 /* img4.jpg in Resources */,
+				4D8FC7C21743E4AA00B7A1E9 /* img5.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
